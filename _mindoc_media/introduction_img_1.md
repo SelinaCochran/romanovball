@@ -17,7 +17,7 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/main_page.jpg 
-order: '00'
+order: ''
 layout: image_description
 ---
 
