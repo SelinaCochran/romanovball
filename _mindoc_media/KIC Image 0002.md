@@ -17,7 +17,7 @@ credit_(IPTC):
 date_created_(IPTC):
 
 _path: /assets/img/KIC Image 0002.jpg
-order: '01'
+order: '37'
 layout: image_description
 ---
 
