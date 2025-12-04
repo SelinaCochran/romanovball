@@ -3,7 +3,7 @@ page: source
 title: Image_№2_from_Introduction
 media_type: image
 
-_title: doggo
+_title: RUSSIAN WOMAN
 description: doggo photo
 creator: Unknown
 _date: Unknown
