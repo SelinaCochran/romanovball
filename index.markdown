@@ -62,7 +62,29 @@ Should you wish to include any supplemental materials--such as specific forms of
 
 # Bibliography
 
-This section should provide a bibliography of all sources cited in your work as well as 
+Avrutin, Eugene. “Pogroms in Russia’s Borderlands, 1881–1884.” In _Pogroms: A Documentary History_. Oxford University Press, 2021.
+
+Britannica Editors. “Alexis | Tsar of Russia.” Encyclopedia Britannica, n.d. https://www.britannica.com/biography/Alexis-tsar-of-Russia.
+
+Condill, Christopher. Questions about 1903 Romanov Ball Pictures. Interview by Amanda Whitely, Angel Bañuelos, and Selina Cochran, October 2025.
+
+Gilbert, Paul. “Nicholas II at the 1903 Ball in the Winter Palace.” Nicholas II, February 21, 2021. https://tsarnicholas.org/2021/02/21/nicholas-ii-at-the-1903-ball-in-the-winter-palace/.Illinois.edu. 
+
+“Department History | Department of Slavic Languages & Literatures | Illinois,” 2025. https://slavic.illinois.edu/department-history.
+
+Joubert, Carl. _Russia as It Really Is_. London Eveleigh Nash, 1904.
+Lilly, David. “The Russian Famine of 1891-92.” University of Loyola New Orleans, 1994. https://cas.loyno.edu/sites/cas.loyno.edu/files/The%20Russian%20Famine%20of%201891-1892.pdf.
+
+Roosevelt, Priscilla, and Richard S. Wortman. “Scenarios of Power: Myth and Ceremony in Russian Monarchy Vol. 1. From Peter the Great to the Death of Nicholas I.” _Russian Review_ 55, no. 1 (January 1996): 126. https://doi.org/10.2307/131932.
+
+Rosen, Renee. “Gilded Age Parties Were Even Wilder than You Can Imagine.” Literary Hub, April 22, 2021. https://lithub.com/gilded-age-parties-were-even-wilder-than-you-can-imagine/.
+
+Sokolova, Alla. “The Traditions of Mummers, Court Masquerades, and Secular Balls.” _Journal of History Culture and Art Research_ 9, no. 3 (September 28, 2020): 297. https://doi.org/10.7596/taksad.v9i3.2753.
+
+Spielmann, Guy. “Court Spectacle and Entertainment.” In _The Oxford Handbook of the Baroque_. Oxford University Press, 2019.
+
+Wortman, Richard. “The Muscovite Revival, 1881–1917.” _In The Oxford Handbook of Modern Russian History_. Oxford University Press, 2013.
+  
 
 # Credits and Acknowledgments
 
