@@ -6,15 +6,9 @@ layout: single_page
 
 # Introduction  
   
-Word count: 250–450 words  
-  
-This is the first written element of an edition: the first content readers encounter.  
-  
-The purpose of this introduction is to set the scene: to provide an initial description of the source as well as an overview your edition, highlighting its features and supplements. This is not a space for much detail about the source or our editorial work with it. Later sections will allow you to do that. Here, your job is to help readers understand that they are looking at a digital edition of a historical source and why that source is interesting.  
-  
-The premium is on precise, no-nonsense prose.  
-  
-At bottom, you should include:  
+Tsar Nicholas II of the Russian Empire hosted a grand ball in February of 1903. The dress code was unique, as all the guests were required to dress up in costumes imitating the 17th century. Featured costumes included general nobility, military uniforms, ethnic outfits, and more. The guest list included nobles from Russia as well as nobles from other countries Russia was allied with. Guests dressed up in extravagant gowns and uniforms meant to reflect the era of one of the first Romanovs to hold the throne, Alexsei Mikhailovich. The purpose of the ball was to celebrate 290 years of the Romanov dynasty. 
+
+Each guest would have photos of their costumes taken by private photographers and studios before the festivities began. Those photos were then printed into an album and sold to the guests as a memento with the proceeds going to charity. The University of Illinois at Urbana-Champaign has approximately 40 of the individual photos from one of the albums in their collection after Ralph T. Fisher brought them to the university in the 1950s. We have currently selected 5 photos to digitally scan and translate their text. These 5 images reflect not only the glitz and glamour of the ball, but the political messages behind them as well and how they connect to a bigger picture of the failures of the later Romanovs.
 
 **How to Cite:**
 Here, provide a citation using this model:
