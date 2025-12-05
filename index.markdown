@@ -85,13 +85,13 @@ Professor John Randolf who teaches History 207 at The University of Illinois Urb
 
 [^1]: Sokolova, “The Traditions...”, 2020, 298. 
 [^2]: Spielmann, “Court Spectacle…”, 2018.
-[^3]: Wortman, “Scenarios of…”, 2013. 
-[^4]:Wortman, “The Muscovite…”, 2013.
+[^3]: Wortman, “Scenarios of…”, 2013, 45, 69. 
+[^4]:Wortman, “The Muscovite…”, 2013, 354.
 [^5]:The Editors of Encyclopaedia Britannica, "Alexis", 2025.
 [^6]:Wortman, “The Muscovite…” 2013. 
 [^7]:Lilly, “The Russian Famine,” 1.
 [^8]:Avrutin, “Pogroms in…”, 2021.
-[^9]:Wortman, Richard S., 'The Muscovite Revival, 1881–1917'
+[^9]:Wortman, Richard S., 'The Muscovite Revival, 1881–1917', 351.
 [^10]:Wortman, Richard S., 'The Muscovite Revival, 1881–1917'.
 [^11]:Carl Joubert, “Russia as…”, 1904, 131.
 [^12]:Literary  Hub, “Gilded age…”, 2021. 
