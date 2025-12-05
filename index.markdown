@@ -73,7 +73,7 @@ Spielmann, Guy. “Court Spectacle and Entertainment.” In _The Oxford Handbook
 Wortman, Richard. “The Muscovite Revival, 1881–1917.” _In The Oxford Handbook of Modern Russian History_. Oxford University Press, 2013.
   
 
-# Credits and Acknowledgments
+### Credits and Acknowledgments
 
 Please thank your clients, as well as anyone else you would like to thank for their assistance in making this edition.
 
@@ -82,7 +82,6 @@ Please thank your clients, as well as anyone else you would like to thank for th
 If you wish to include short bios of yourselves as authors, please put them here.  This is optional.
 
 # About MinDoc 1.0
-_Please leave this credit (eliminating this italicized part)_
 
 > This site was built using MinDoc 1.0, a prototype digital documentary edition template developed for classroom use by members of [SourceLab](https://sourcelab.history.illinois.edu/) at the University of Illinois Urbana-Champaign.  The original project team included Liza Senatrova, John Randolph, Caroline Kness, and Richard Young.
 
