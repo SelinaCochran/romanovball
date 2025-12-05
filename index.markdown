@@ -43,18 +43,7 @@ Peter the Great brought Russia into the Western sphere, but as the West came to 
 
 # About this Edition
 
-This section should state the principles and choices that guided your editorial work. It helps satisfy the last of the ADE’s criteria, by explaining to readers just how you produced the copy of the source presented here.
-
-This section should answer such questions as:
-
-    What original artifacts or copies of original artifacts were used in the making of your edition? 
-    Where may they be found today? What is their catalog or other identifying number (DOI, URL) there?
-    What procedures and technologies did you use in making your presentation of this artifact?
-    Why did you choose them? Are there any limitations of this method that readers should be aware of?
-    How did you produce transcriptions (if any)?
-    What kinds of alterations or emendations (if any) have you made? How are they noted?
-
-There is no target word count for this section, as the emphasis here is on maximum precision and clarity.  Be as brief and to the point as you can.
+For this edition we are presenting photos of aristocrats in their costumes taken for the 1903 Romanov ball celebrating 300 years of reigning in power. The photos have come from a book with the photos pressed into large sheets of paper and it is a possibility that this book might have been auctioned out for charity at some point. These photos may be found today at the University of Illinois at Urbana-Champaign in the International and Area Studies library upon request. Originally, the photos ended up in the hands of Ralph T. Fisher, the founder of the Russian, East European, and Eurasian center back in 1958 at the University of Illinois at Urbana Champaign. It is possible that Fisher brought the photos over from Yale University, but this is not known for certain. They eventually went into the Slavic backlog and were never cataloged. How the photos ended up with Ralph T. Fisher is still unknown. We have used colored scans of the photos using a KIC scanner to present them on this site. We have chosen images for variety and for use in prototyping. Additionally, there were no alterations made to the photos themselves.
 
 # Supplements
 
