@@ -19,6 +19,16 @@ Each guest would have photos of their costumes taken by private photographers an
 Currently Under Construction...
 
 {% include media_next.html pages=media %}
+debug 1
+{% include media_next.html pages=media %}
+debug 2
+{% include media_next.html pages=media %}
+debug 3
+{% include media_next.html pages=media %}
+debug 4
+{% include media_next.html pages=media %}
+debug 5
+{% include media_next.html pages=media %}
 
 # About this Source
 
