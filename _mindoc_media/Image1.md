@@ -3,7 +3,7 @@ page: source
 title: Image_№2_from_Introduction
 media_type: image
 
-_title: RUSSIAN WOMAN
+_title: Sofia Petrovna Durnoro Dressed as Boyar Woman
 description: doggo photo
 creator: Boissanas & Eggler 
 _date: 1903
