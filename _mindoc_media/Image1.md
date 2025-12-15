@@ -11,10 +11,12 @@ rights: Public Domain
 type: Collection, Event, Image, Stillmage, Text
 source: University of Illinois at Urbana-Champaign, International and Area Studies Library
 identifier:
-contributor:
+contributor: Christopher Condill 
 format:
 credit_(IPTC):
-date_created_(IPTC):
+The International and Area Studies Library, University of Illinois at Urbana-Champaign
+Christopher Condill
+date_created_(IPTC): 10/16/25
 
 _path: /assets/img/Image_1.jpg
 order: '01'
