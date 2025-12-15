@@ -3,18 +3,18 @@ page: source
 title: Image_№2_from_Introduction
 media_type: image
 
-_title: doggo
+_title: Prince Chakrabon Dressed as a Commander of the Lancers 
 description: doggo photo
-creator: Unknown
-_date: Unknown
-rights: 
-type: 
-source:
+creator: Les Théâtres Impériaux
+date: 1903
+rights: Public Domain 
+type: Collection, Event, Image, Stillmage, Text
+source: University of Illinois at Urbana-Champaign, International and Area Studies Library
 identifier:
-contributor:
+contributor: Christopher Condill 
 format:
-credit_(IPTC):
-date_created_(IPTC):
+credit_(IPTC): The International and Area Studies Library, University of Illinois at Urbana-Champaign and Christopher Condill
+date_created_(IPTC): 10/16/25
 
 _path: /assets/img/OfficialImage.jpg 
 order: '04'
