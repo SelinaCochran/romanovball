@@ -20,6 +20,7 @@ Currently Under Construction...
 
 {% include media_next.html pages=media %}
 Sofia Petrovna Durnoro,
+
 née Princess Volkhonskaia
 (Boyar woman of the age of Tsar Alexsei Mikhailovich)
 {% include media_next.html pages=media %}
