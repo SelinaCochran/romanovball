@@ -13,9 +13,7 @@ source: University of Illinois at Urbana-Champaign, International and Area Studi
 identifier:
 contributor: Christopher Condill 
 format:
-credit_(IPTC):
-The International and Area Studies Library, University of Illinois at Urbana-Champaign
-Christopher Condill
+credit_(IPTC): The International and Area Studies Library, University of Illinois at Urbana-Champaign and Christopher Condill
 date_created_(IPTC): 10/16/25
 
 _path: /assets/img/Image_1.jpg
