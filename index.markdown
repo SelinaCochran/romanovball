@@ -111,22 +111,23 @@ Professor John Randolphr who teaches History 207 at The University of Illinois U
 # References
 
 [^1]:Gilbert, “Nicholas II at…” Nicholas II, February 21, 2025, https://tsarnicholas.org/2021/02/21/nicholas-ii-at-the-1903-ball-in-the-winter-palace/. 
-[^2]:Christopher Condill (associate professor) in discussion with author(s), October 2025.
-[^3]:Sokolova, “The Traditions...”, 2020, 298. 
-[^4]:Spielmann, “Court Spectacle…”, 2018.
-[^5]:Wortman, “Scenarios of…”, 2013, 45, 69. 
-[^6]::Wortman, “Scenarios of…”, 2013, 351. 
-[^7]:The Editors of Encyclopaedia Britannica, "Alexis", 2025.
-[^8]:Wortman, “The Muscovite…” 2013. 
-[^9]:Lilly, “The Russian Famine,” 1.
-[^10]:Avrutin, “Pogroms in…”, 2021.
-[^11]::Wortman, “Scenarios of…”, 2013, 351.
-[^12]:Wortman, Richard S., 'The Muscovite Revival, 1881–1917'.
-[^13]:Carl Joubert, “Russia as…”, 1904, 131.
-[^14]:Literary  Hub, “Gilded age…”, 2021. 
-[^15]:
-[^16]:Gilbert, Paul. “Nicholas II at the 1903 Ball in the Winter Palace.” Nicholas II, February 21, 2025. htts://tsarnicholas.org/2021/02/21/nicholas-ii-at-the-1903-ball-in-the-winter-palace/. 
-[^17]:
-[^18]:“Department History: Department of Slavic Languages & Literatures.” Illinois. Accessed December 3, 2025. https://slavic.illinois.edu/department-history. 
-[^19]:Christopher Condill (associate professor) in discussion with author(s), October 2025.
+[^2]:Gilbert, “Nicholas II at…” Nicholas II, February 21, 2025, https://tsarnicholas.org/2021/02/21/nicholas-ii-at-the-1903-ball-in-the-winter-palace/. 
+[^3]:Christopher Condill (associate professor) in discussion with author(s), October 2025.
+[^4]:Sokolova, “The Traditions...”, 2020, 298. 
+[^5]:Spielmann, “Court Spectacle…”, 2018.
+[^6]:Wortman, “Scenarios of…”, 2013, 45, 69. 
+[^7]::Wortman, “Scenarios of…”, 2013, 351. 
+[^8]:The Editors of Encyclopaedia Britannica, "Alexis", 2025.
+[^9]:Wortman, “The Muscovite…” 2013. 
+[^10]:Lilly, “The Russian Famine,” 1.
+[^11]:Avrutin, “Pogroms in…”, 2021.
+[^12]::Wortman, “Scenarios of…”, 2013, 351.
+[^13]:Wortman, Richard S., 'The Muscovite Revival, 1881–1917'.
+[^14]:Carl Joubert, “Russia as…”, 1904, 131.
+[^15]:Literary  Hub, “Gilded age…”, 2021. 
+[^16]:
+[^17]:Gilbert, Paul. “Nicholas II at the 1903 Ball in the Winter Palace.” Nicholas II, February 21, 2025. htts://tsarnicholas.org/2021/02/21/nicholas-ii-at-the-1903-ball-in-the-winter-palace/. 
+[^18]:
+[^19]:“Department History: Department of Slavic Languages & Literatures.” Illinois. Accessed December 3, 2025. https://slavic.illinois.edu/department-history. 
+[^20]:Christopher Condill (associate professor) in discussion with author(s), October 2025.
 
