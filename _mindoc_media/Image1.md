@@ -5,11 +5,11 @@ media_type: image
 
 _title: RUSSIAN WOMAN
 description: doggo photo
-creator: Unknown
-_date: Unknown
-rights: 
-type: 
-source:
+creator: Boissanas & Eggler 
+_date: 1903
+rights: Public Domain 
+type: Collection, Event, Image, Stillmage, Text
+source: University of Illinois at Urbana-Champaign, International and Area Studies Library
 identifier:
 contributor:
 format:
