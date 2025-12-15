@@ -19,16 +19,23 @@ Each guest would have photos of their costumes taken by private photographers an
 Currently Under Construction...
 
 {% include media_next.html pages=media %}
-debug 1
+Sofia Petrovna Durnoro,
+née Princess Volkhonskaia
+(Boyar woman of the age of Tsar Alexsei Mikhailovich)
 {% include media_next.html pages=media %}
-debug 2
+Baron Vladmir Bonsovich Frederiks,
+Minister of the Imperial Court, Adjutant General
+(Dressed according to a portrait of Hetman Bogdan Khmelnitsky)
 {% include media_next.html pages=media %}
-debug 3
+Princess Elena Konstantinovna Kochubuei
+née Princess Beloselskaia-Belozevskaia 
+(Costume of noblewoman of "Little Russia" _[Ukraine]_ of the 17th Century)
 {% include media_next.html pages=media %}
-debug 4
+His Highness the Princess of Siam Chakrabon
+(Dressed as a commander of the Lancers, which at the end of the 17th century belonged to the Streltsy.)
 {% include media_next.html pages=media %}
-debug 5
-{% include media_next.html pages=media %}
+A group of officers of the guards Hussars Regiment 
+(In costumes Lancer officers, which at the end of the 17th century existed as part of the Streltsy)
 
 # About this Source
 
