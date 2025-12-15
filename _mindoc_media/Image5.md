@@ -5,7 +5,7 @@ media_type: image
 
 _title: Various Guests Dressed as Officers of the Hussars Regiment 
 description: wah wah
-creator: Boissanas & Eggler 
+creator: Lévitsky
 _date: 1903
 rights: Public Domain 
 type: Collection, Event, Image, Stillmage, Text
