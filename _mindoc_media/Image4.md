@@ -3,7 +3,7 @@ page: source
 title: Image_№2_from_Introduction
 media_type: image
 
-_title: Prince Chakrabon Dressed as a Commander of the Lancers 
+_title:Prince Chakrabon Dressed as a Commander of the Lancers 
 description:doggo photo
 creator:Les Théâtres Impériaux
 date:1903
