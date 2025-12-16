@@ -12,7 +12,7 @@ type: Collection, Event, Image, Stillmage, Text
 source: University of Illinois at Urbana-Champaign, International and Area Studies Library
 identifier: C:\Users\scoch6\Pictures\Image_2.jpg
 contributor: Christopher Condill 
-format:
+format: 20inx12in
 credit_(IPTC): The International and Area Studies Library, University of Illinois at Urbana-Champaign and Christopher Condill
 date_created_(IPTC): 10/16/25
 
