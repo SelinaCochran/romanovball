@@ -1,7 +1,7 @@
 ---
 page: source
 title: Image_№2_from_Introduction
-media_type: image
+media_type:image
 
 _title:Prince Chakrabon Dressed as a Commander of the Lancers 
 description:doggo photo
